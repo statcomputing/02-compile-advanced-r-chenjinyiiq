@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599938150959.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1135615057",
+    "id" : "6D734B01",
+    "lastKnownWriteTime" : 1599956890,
+    "last_content_update" : 1599956890521,
+    "path" : "E:/Github/Advance R Programming/Advanced R Compiling/code.R",
+    "project_path" : "code.R",
+    "properties" : {
+        "cursorPosition" : "41,0",
+        "scrollLine" : "26",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
